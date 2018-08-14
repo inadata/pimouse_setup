@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by ina
+#witten by inadaTA
 
 exec 2> /tmp/setup.log
 
