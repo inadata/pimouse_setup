@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#witten by inadaTA
 
 exec 2> /tmp/setup.log
 
